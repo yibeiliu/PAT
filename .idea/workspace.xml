@@ -6,6 +6,7 @@
       <config projectName="Algorithm" targetName="B_1010" />
       <config projectName="Algorithm" targetName="B_1004" />
       <config projectName="Algorithm" targetName="B_1003" />
+      <config projectName="Algorithm" targetName="B_1014" />
       <config projectName="Algorithm" targetName="B_1006" />
       <config projectName="Algorithm" targetName="B_1005" />
       <config projectName="Algorithm" targetName="B_1008" />
@@ -18,7 +19,18 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fba03a6-244b-488e-8adc-f6adf71f4403" name="Default Changelist" comment="" />
+    <list default="true" id="7fba03a6-244b-488e-8adc-f6adf71f4403" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Algorithm.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Algorithm.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +55,13 @@
     <select />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V0BXIo5HlyVSzvHgLqgx95BFXo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -59,7 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.B_1010">
+  <component name="RunManager" selected="CMake Application.B_1014">
     <configuration name="B_1003" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="B_1003" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="B_1003">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -95,6 +112,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="B_1014" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="B_1014" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="B_1014">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="main">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -108,6 +130,7 @@
       <item itemvalue="CMake Application.B_1007" />
       <item itemvalue="CMake Application.B_1008" />
       <item itemvalue="CMake Application.B_1010" />
+      <item itemvalue="CMake Application.B_1014" />
       <item itemvalue="CMake Application.main" />
     </list>
   </component>
@@ -122,11 +145,22 @@
       <option name="presentableId" value="Default" />
       <updated>1576380169110</updated>
       <workItem from="1576380170397" duration="9140000" />
-      <workItem from="1576404594230" duration="2121000" />
+      <workItem from="1576404594230" duration="6647000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
